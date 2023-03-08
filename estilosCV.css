@@ -1,0 +1,54 @@
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+
+h2{
+    font-weight: bold;
+    font-style: italic;
+    color: saddlebrown;
+    padding: 5px;
+    border: 1px solid white;
+}
+
+header{
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+    padding: 5px;
+}
+
+h3{
+    font-weight: bold;
+    font-style: italic;
+    color:firebrick;
+    padding-top: 30px;
+
+}
+
+h4{
+    color: darkred;
+}
+
+p{
+    font-weight: bold;
+    color: black;
+}
+
+li{
+    font-weight: bold;
+    color: black;
+}
+
+i{
+    padding-top: 10px;
+    padding-right: 5px;
+}
+
+b{
+    padding-top: 10px;
+}
+
+body{
+    background-color: burlywood;
+    margin: 70px;
+}
